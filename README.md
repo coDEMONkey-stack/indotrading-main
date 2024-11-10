@@ -9,7 +9,7 @@ II. Getting Started:
 Open the html file through browser. E.g. Chrome
 
 III. Deployment:
-The deployment link to Vercel: https://indotrading-main-jd3w3oy4w-codemonkeystacks-projects.vercel.app/
+The deployment link to Vercel: https://indotrading-main.vercel.app
 
 IV. Others:
 - Sliced from the UI/UX Design on Figma:
